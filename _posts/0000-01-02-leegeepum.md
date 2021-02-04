@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-# How does this look like?
+**this** is *going* to look a little weird!
 ## What about his?
